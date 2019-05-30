@@ -13,4 +13,3 @@ You can run the app on:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at http://localhost:8080 or local ip: http://10.52.102.255:8080/
-new test
