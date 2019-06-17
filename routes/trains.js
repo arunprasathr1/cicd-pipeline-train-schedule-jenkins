@@ -12,3 +12,8 @@ router.get('/', function(req, res, next) {
 });
 
 module.exports = router;
+module.exports = high(adapter);
+module.express = this.report
+var adapter = new FileSync("data/rhein.json")
+var db = high(adapter)
+SyncManager = require('lowdb/adapters/FileSync')
